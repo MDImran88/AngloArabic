@@ -91,49 +91,77 @@
     </div>
 </section>
 <div class="container px-md-0 main-container">
-    <!-- Features Section Starts -->
-    <div class="notification-boxes row">
-        <div class="col-lg-3 col-md-6 col-sm-12">
-            <div class="box hover-border-outer hover-border">
-                <div class="icon"><i class="fas fa-video"></i></div>
-                <h4>Online Classes</h4>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat condimentum velit class
-                    aptent taciti sociosqu.</p>
-                <a href="#" class="btn btn-transparent">
-                    Read More </a>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-            <div class="box hover-border-outer hover-border">
-                <div class="icon"><i class="fas fa-graduation-cap"></i></div>
-                <h4>Scholarship</h4>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat condimentum velit class
-                    aptent taciti sociosqu.</p>
-                <a href="#" class="btn btn-transparent">
-                    Read More </a>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-            <div class="box hover-border-outer hover-border">
-                <div class="icon"><i class="fas fa-book-reader"></i></div>
-                <h4>Books & Liberary</h4>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat condimentum velit class
-                    aptent taciti sociosqu.</p>
-                <a href="#" class="btn btn-transparent">
-                    Read More </a>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-            <div class="box hover-border-outer hover-border">
-                <div class="icon"><i class="fab fa-discourse"></i></div>
-                <h4>Trending Courses</h4>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat condimentum velit class
-                    aptent taciti sociosqu.</p>
-                <a href="#" class="btn btn-transparent">
-                    Read More </a>
-            </div>
-        </div>
+    <div class="container gallery-album px-md-0 main-container">
+        <ul id="doctors-filter" class="list-unstyled list-inline">
+            <li class="list-inline-item"><a href="#" class="active" data-group="all">All</a></li>
+            <li class="list-inline-item"><a href="#" data-group="1">Videos</a></li>
+            <li class="list-inline-item"><a href="#" data-group="2">Photos</a></li>
+        </ul>
+        <ul id="doctors-grid" class="row grid">
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "1"]'>
+                <div class="bio-box">
+                    <div class="gallery-album-item">
+                        <div class="gallery-album-img">
+                            <img src="uploads/frontend/gallery/gallery-1619150843.jpg" alt="Image">
+                        </div>
+                        <div class="gallery-album-title">
+                            <h3>Celebration</h3>
+                            <a class="btn" href="gallery/gallery_view/celebration.html"><i
+                                    class="fas fa-photo-video"></i></a>
+                        </div>
+                        <div class="gallery-album-meta">
+                            <p>By<a href="#">Jennifer Adams</a></p>
+                        </div>
+                        <div class="gallery-album-text">
+                            <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi.Lorem ipsum dolor .</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "2"]'>
+                <div class="bio-box">
+                    <div class="gallery-album-item">
+                        <div class="gallery-album-img">
+                            <img src="uploads/frontend/gallery/gallery-1619151140.jpg" alt="Image">
+                        </div>
+                        <div class="gallery-album-title">
+                            <h3>Pre Primary</h3>
+                            <a class="btn" href="gallery/gallery_view/pre-primary.html"><i
+                                    class="fas fa-photo-video"></i></a>
+                        </div>
+                        <div class="gallery-album-meta">
+                            <p>By<a href="#">Jennifer Adams</a></p>
+                        </div>
+                        <div class="gallery-album-text">
+                            <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi.Lorem ipsum dolor .</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "2"]'>
+                <div class="bio-box">
+                    <div class="gallery-album-item">
+                        <div class="gallery-album-img">
+                            <img src="uploads/frontend/gallery/defualt.png" alt="Image">
+                        </div>
+                        <div class="gallery-album-title">
+                            <h3>Recreation Centre</h3>
+                            <a class="btn" href="gallery/gallery_view/recreation-centre.html"><i
+                                    class="fas fa-photo-video"></i></a>
+                        </div>
+                        <div class="gallery-album-meta">
+                            <p>By<a href="#">Jennifer Adams</a></p>
+
+                        </div>
+                        <div class="gallery-album-text">
+                            <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi.Lorem ipsum dolor .</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
     </div>
+    <!-- Features Section Starts -->
     <!-- Welcome Section Starts -->
     <section class="welcome-area">
         <div class="row">
@@ -472,19 +500,7 @@
                 </li>
             </ul>
         </section>
-        <div class="book-appointment-box" style="background-color: #464646;">
-            <div class="row">
-                <div class="col-lg-8 col-md-12 text-center text-lg-left">
-                    <h4 style="color: #fff;">Request for a free Education Class</h4>
-                    <h3 style="color: #fff;">
-                        <div class="inner-box"><i class="fa fa-phone"></i></div> +2484-398-8987
-                    </h3>
-                </div>
-                <div class="col-lg-4 col-md-12 text-center text-lg-left">
-                    <a href="#" class="btn btn-main btn-1 text-uppercase">Request Now</a>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 

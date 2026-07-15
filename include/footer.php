@@ -5,16 +5,16 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="footer-logo">
-                        <img src="uploads/frontend/images/logo18f90.png?src=1783942116" alt="Logo">
+                        <img src="uploads/frontend/images/logo.png" alt="Logo">
                     </div>
-                    <div class="footer-select mb-3 mt-4">
+                    <!-- <div class="footer-select mb-3 mt-4">
                         <div class="form-group">
                             <select name="branch_id" class='form-control' id='activateSchool' data-plugin-selectTwo>
                                 <option value="1" selected="selected">Icon School & College</option>
                                 <option value="2">Oxford International School</option>
                             </select>
                         </div>
-                    </div>
+                    </div> -->
                     <p class="footer-dec">If you are going to use a passage LorIsum, you anythirassing hidden in the
                         middle of text. Lators on the Internet tend to.</p>
                     <ul class="social">
@@ -31,7 +31,7 @@
                     <h4>Address</h4>
                     <ul class="list-unstyled address-list">
                         <li class="clearfix address">
-                            <i class="fas fa-map-marker-alt"></i> 3470 Geraldine Lane, New York
+                            <i class="fas fa-map-marker-alt"></i> Ajmeri Gate, Delhi
                         </li>
                         <li class="clearfix">
                             <i class="fas fa-phone"></i> +1-954-648-1802
@@ -40,29 +40,23 @@
                             <i class="fas fa-fax"></i></i> 001 - 785 987 1234
                         </li>
                         <li class="clearfix">
-                            <i class="fas fa-envelope"></i> <a
-                                href="cdn-cgi/l/email-protection.html#452c2b232a052120282a6b262a28"><span
-                                    class="__cf_email__"
-                                    data-cfemail="fe97909891be9a9b9391d09d9193">[email&#160;protected]</span></a>
+                            <a href="#">
+                                <i class="far fa-envelope"></i> <span class="">angloarabic@yahoo.com</span>
+                            </a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class=" col-lg-4 col-md-4 col-sm-12">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled quick-links">
-                        <li><a href="index.html"><i class="fa fa-angle-right"></i> Home</a></li>
-                        <li><a href="teachers.html"><i class="fa fa-angle-right"></i> Teachers</a></li>
-                        <li><a href="events.html"><i class="fa fa-angle-right"></i> Events</a></li>
-                        <li><a href="about.html"><i class="fa fa-angle-right"></i> About Us</a></li>
-                        <li><a href="faq.html"><i class="fa fa-angle-right"></i> FAQ</a></li>
-                        <li><a href="admission.html"><i class="fa fa-angle-right"></i> Online Admission</a></li>
-                        <li><a href="gallery.html"><i class="fa fa-angle-right"></i> Gallery</a></li>
-                        <li><a href="news.html"><i class="fa fa-angle-right"></i> News</a></li>
-                        <li><a href="#"><i class="fa fa-angle-right"></i> Pages</a></li>
-                        <li><a href="admit_card.html"><i class="fa fa-angle-right"></i> Admit Card</a></li>
-                        <li><a href="exam_results.html"><i class="fa fa-angle-right"></i> Exam Results</a></li>
-                        <li><a href="certificates.html"><i class="fa fa-angle-right"></i> Certificates</a></li>
-                        <li><a href="contact.html"><i class="fa fa-angle-right"></i> Contact Us</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Home</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> About Us</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Admission</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Circular and Notice</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Downloads</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Our Team</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> School Tarana</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Gallery</a></li>
                     </ul>
                 </div>
             </div>
@@ -70,7 +64,7 @@
     </div>
     <div class="copyright" style="background-color: #262626; color: #8d8d8d;">
         <div class="container px-md-0 clearfix text-center">
-            Copyright &copy; 2026 <span>Ramom</span>. All Rights Reserved. </div>
+            Copyright &copy; 2026 <span>Anglo Arabic School</span>. All Rights Reserved. </div>
     </div>
     <!-- Copyright Ends -->
 </footer>

@@ -853,7 +853,7 @@ color: #8d8d8d;
 }
 
 #nav .nav-link {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: normal;
     color: #313131;
     line-height: normal;
@@ -876,6 +876,16 @@ color: #8d8d8d;
     color: var(--thm-primary);
 }
 
+#nav .nav-link.extra-btn{
+    background-color: var(--thm-primary);
+    color: #fff!important;
+}
+#nav .nav-link.extra-btn:hover,
+#nav .nav-link.extra-btn:focus,
+#nav .nav-link.extra-btn:active {
+    background-color: var(--thm-primary);
+    color: #fff!important;
+}
 #nav .dropdown-menu {
     background-color: #fff;
     padding: 0;
@@ -953,7 +963,7 @@ color: #8d8d8d;
     font-weight: 900;
     margin-left: 4px;
     display: inline;
-    font-size: 11px;
+    font-size: 16px;
     height: auto;
     text-shadow: none;
     width: 10px;
@@ -962,6 +972,14 @@ color: #8d8d8d;
 
 #nav .dropdown-menu a.dropdown-item:before {
     content: "\f054";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    left: 12px;
+    font-size: 9px;
+}
+#nav .dropdown-menu.arrow-nill a.dropdown-item:before {
+    content: "";
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     position: absolute;
@@ -1003,22 +1021,22 @@ color: #8d8d8d;
 
 @media (min-width: 992px) {
     #nav .navbar-nav > li+li {
-        margin-left: 5px;
+        margin-left: 10px;
     }
     #nav .navbar-nav > li > a {
         background: transparent;
         position: relative;
         -webkit-transform: translateZ(0);
         transform: translateZ(0);
-        padding-right: .4rem !important;
-        padding-left: .4rem !important;
+        padding-right: .9rem !important;
+        padding-left: .9rem !important;
     }
     #nav .navbar-nav > li > a:before,
     #nav .navbar-nav > li > a:after {
         content: '';
         position: absolute;
-        width: 10px;
-        height: 10px;
+        width: 15px;
+        height: 15px;
         opacity: 0;
         border: 2px solid var(--thm-primary);
         -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
