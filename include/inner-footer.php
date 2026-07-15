@@ -1,13 +1,3 @@
-<!-- Footer Top Bar Starts -->
-<section class="footer-top-bar">
-    <div class="container px-md-0 clearfix text-center-sm text-center-xs">
-        <h3 class="float-left  mb-3">
-            Get in touch to join our community </h3>
-        <a href="contact.html" class="btn btn-black text-uppercase float-right">
-            Contact Our Office </a>
-    </div>
-</section>
-<!-- Footer Top Bar Ends -->
 <!-- Footer Starts -->
 <footer class="main-footer">
     <div class="footer-area" style="background: #383838 url(assets/frontend/images/07.png);">
@@ -15,16 +5,16 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="footer-logo">
-                        <img src="uploads/frontend/images/logo1e627.png?src=1783942123" alt="Logo">
+                        <img src="uploads/frontend/images/logo.png" alt="Logo">
                     </div>
-                    <div class="footer-select mb-3 mt-4">
+                    <!-- <div class="footer-select mb-3 mt-4">
                         <div class="form-group">
                             <select name="branch_id" class='form-control' id='activateSchool' data-plugin-selectTwo>
                                 <option value="1" selected="selected">Icon School & College</option>
                                 <option value="2">Oxford International School</option>
                             </select>
                         </div>
-                    </div>
+                    </div> -->
                     <p class="footer-dec">If you are going to use a passage LorIsum, you anythirassing hidden in the
                         middle of text. Lators on the Internet tend to.</p>
                     <ul class="social">
@@ -41,7 +31,7 @@
                     <h4>Address</h4>
                     <ul class="list-unstyled address-list">
                         <li class="clearfix address">
-                            <i class="fas fa-map-marker-alt"></i> 3470 Geraldine Lane, New York
+                            <i class="fas fa-map-marker-alt"></i> Ajmeri Gate, Delhi
                         </li>
                         <li class="clearfix">
                             <i class="fas fa-phone"></i> +1-954-648-1802
@@ -50,29 +40,23 @@
                             <i class="fas fa-fax"></i></i> 001 - 785 987 1234
                         </li>
                         <li class="clearfix">
-                            <i class="fas fa-envelope"></i> <a
-                                href="cdn-cgi/l/email-protection.html#d6bfb8b0b996b2b3bbb9f8b5b9bb"><span
-                                    class="__cf_email__"
-                                    data-cfemail="adc4c3cbc2edc9c8c0c283cec2c0">[email&#160;protected]</span></a>
+                            <a href="#">
+                                <i class="far fa-envelope"></i> <span class="">angloarabic@yahoo.com</span>
+                            </a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class=" col-lg-4 col-md-4 col-sm-12">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled quick-links">
-                        <li><a href="index.html"><i class="fa fa-angle-right"></i> Home</a></li>
-                        <li><a href="teachers.html"><i class="fa fa-angle-right"></i> Teachers</a></li>
-                        <li><a href="events.html"><i class="fa fa-angle-right"></i> Events</a></li>
-                        <li><a href="about.html"><i class="fa fa-angle-right"></i> About Us</a></li>
-                        <li><a href="faq.html"><i class="fa fa-angle-right"></i> FAQ</a></li>
-                        <li><a href="admission.html"><i class="fa fa-angle-right"></i> Online Admission</a></li>
-                        <li><a href="gallery.html"><i class="fa fa-angle-right"></i> Gallery</a></li>
-                        <li><a href="news.html"><i class="fa fa-angle-right"></i> News</a></li>
-                        <li><a href="#"><i class="fa fa-angle-right"></i> Pages</a></li>
-                        <li><a href="admit_card.html"><i class="fa fa-angle-right"></i> Admit Card</a></li>
-                        <li><a href="exam_results.html"><i class="fa fa-angle-right"></i> Exam Results</a></li>
-                        <li><a href="certificates.html"><i class="fa fa-angle-right"></i> Certificates</a></li>
-                        <li><a href="contact.html"><i class="fa fa-angle-right"></i> Contact Us</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Home</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> About Us</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Admission</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Circular and Notice</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Downloads</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Our Team</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> School Tarana</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Gallery</a></li>
                     </ul>
                 </div>
             </div>
@@ -80,7 +64,7 @@
     </div>
     <div class="copyright" style="background-color: #262626; color: #8d8d8d;">
         <div class="container px-md-0 clearfix text-center">
-            Copyright &copy; 2026 <span>Ramom</span>. All Rights Reserved. </div>
+            Copyright &copy; 2026 <span>Anglo Arabic School</span>. All Rights Reserved. </div>
     </div>
     <!-- Copyright Ends -->
 </footer>
@@ -153,7 +137,7 @@
         if (b) {
             var d = b.createElement('script');
             d.innerHTML =
-                "window.__CF$cv$params={r:'a1a7f21ddc8ac51e',t:'MTc4Mzk0MjEyMw=='};var a=document.createElement('script');a.src='cdn-cgi/challenge-platform/h/b/scripts/jsd/3104729c556c/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";
+                "window.__CF$cv$params={r:'a1a7f1f1497ec51e',t:'MTc4Mzk0MjExNg=='};var a=document.createElement('script');a.src='cdn-cgi/challenge-platform/h/b/scripts/jsd/3104729c556c/maind41d.js';document.getElementsByTagName('head')[0].appendChild(a);";
             b.getElementsByTagName('head')[0].appendChild(d)
         }
     }
@@ -185,6 +169,6 @@
     crossorigin="anonymous"></script>
 </body>
 
-<!-- Mirrored from iconschool.ramomcoder.com/about by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Jul 2026 11:29:24 GMT -->
+<!-- Mirrored from iconschool.ramomcoder.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Jul 2026 11:28:54 GMT -->
 
 </html>

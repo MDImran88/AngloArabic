@@ -125,8 +125,9 @@
 
 
                                 <li class="nav-item dropdown">
-                                    <a href="#" class="nav-link">About US<span class="arrow"></span> </a>
+                                    <a href="aboutus.php" class="nav-link">About US<span class="arrow"></span> </a>
                                     <ul class="dropdown-menu arrow-nill" role="menu">
+                                        <a class="dropdown-item" href="#">Brief History of The School</a>
                                         <a class="dropdown-item" href="#">Delhi Education Society</a>
                                         <a class="dropdown-item" href="#">About The Chairman</a>
                                         <a class="dropdown-item" href="#">About The Manager</a>
@@ -140,18 +141,38 @@
                                 <!-- <li class="nav-item">
                                     <a href="#" class="nav-link">FAQ </a>
                                 </li> -->
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">Admission </a>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link">Admissions<span class="arrow"></span> </a>
+                                    <ul class="dropdown-menu arrow-nill" role="menu">
+                                        <a class="dropdown-item" href="#">Admission VI-VII</a>
+                                        <a class="dropdown-item" href="#">Admission IX-XI</a>
+                                        <a class="dropdown-item" href="#">Admission Forms</a>
+                                    </ul>
                                 </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">Circular and Notice</a>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link">Circular and Notice<span class="arrow"></span> </a>
+                                    <ul class="dropdown-menu arrow-nill" role="menu">
+                                        <a class="dropdown-item" href="#">DOE Circulars</a>
+                                        <a class="dropdown-item" href="#">School Notice</a>
+                                    </ul>
                                 </li>
 
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">Downloads </a>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link">Downloads<span class="arrow"></span> </a>
+                                    <ul class="dropdown-menu arrow-nill" role="menu">
+                                        <a class="dropdown-item" href="#">Syllabus</a>
+                                        <a class="dropdown-item" href="#">Support Materials</a>
+                                    </ul>
                                 </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">Our Team </a>
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link">Our Team<span class="arrow"></span> </a>
+                                    <ul class="dropdown-menu arrow-nill" role="menu">
+                                        <a class="dropdown-item" href="#">Syllabus</a>
+                                        <a class="dropdown-item" href="#">Teaching</a>
+                                        <a class="dropdown-item" href="#">PGTs</a>
+                                        <a class="dropdown-item" href="#">TGTs</a>
+                                        <a class="dropdown-item" href="#">Housing Keeping Staff</a>
+                                    </ul>
                                 </li>
 
                                 <li class="nav-item">
@@ -161,7 +182,8 @@
                                     <a href="#" class="nav-link">Gallery</a>
                                 </li>
                                 <li class="nav-item ">
-                                    <a href="#" class="nav-link extra-btn">Mandatory Disclosure</a>
+                                    <a href="mandatory-disclosure.php" class="nav-link extra-btn">Mandatory
+                                        Disclosure</a>
                                 </li>
                             </ul>
                         </div>

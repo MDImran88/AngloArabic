@@ -1795,7 +1795,7 @@ ul.owl-carousel {
 .bio-box .dlab-media {
     position: relative;
 }
-
+/* 
 .bio-box .dlab-media:after {
     content: "";
     background: rgba(0, 0, 0, .6);
@@ -1814,7 +1814,7 @@ ul.owl-carousel {
 .bio-box:hover .dlab-media:after {
     visibility: visible;
     opacity: 1;
-}
+} */
 
 .profile-img .overlay {
     position: absolute;

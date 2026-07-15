@@ -53,15 +53,10 @@
                 <div class="slider-caption c-left">
                     <div class="container">
                         <div class="wrap-caption">
-                            <h1>Wellcome To <span>Ramom</span></h1>
+                            <h1>Welcome To <span>Anglo Arabic School</span></h1>
                             <div class="text center">Lorem Ipsum is simply dummy text printer took a galley of type and
                                 scrambled it to make a type specimen book.</div>
-                            <div class="link-btn">
-                                <a href="#" class="btn">
-                                    View Services </a>
-                                <a href="#" class="btn btn1">
-                                    Learn More </a>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -73,15 +68,10 @@
                 <div class="slider-caption c-left">
                     <div class="container">
                         <div class="wrap-caption">
-                            <h1>Online <span>Live Class</span> Facility</h1>
+                            <h1>Smart <span>Class</span> Facility</h1>
                             <div class="text center">Lorem Ipsum is simply dummy text printer took a galley of type and
                                 scrambled it to make a type specimen book.</div>
-                            <div class="link-btn">
-                                <a href="#" class="btn">
-                                    Read More </a>
-                                <a href="#" class="btn btn1">
-                                    Get Started </a>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -93,12 +83,13 @@
 <div class="container px-md-0 main-container">
     <div class="container gallery-album px-md-0 main-container">
         <ul id="doctors-filter" class="list-unstyled list-inline">
-            <li class="list-inline-item"><a href="#" class="active" data-group="all">All</a></li>
-            <li class="list-inline-item"><a href="#" data-group="1">Videos</a></li>
-            <li class="list-inline-item"><a href="#" data-group="2">Photos</a></li>
+            <!-- <li class="list-inline-item"><a href="#" class="active" data-group="all">All</a></li> -->
+            <li class="list-inline-item"><a href="#" class="active" data-group="1">Achievements</a></li>
+            <li class="list-inline-item"><a href="#" data-group="2">Student's Life</a></li>
+            <li class="list-inline-item"><a href="#" data-group="3">Sports</a></li>
         </ul>
         <ul id="doctors-grid" class="row grid">
-            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "1"]'>
+            <!-- <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "1"]'>
                 <div class="bio-box">
                     <div class="gallery-album-item">
                         <div class="gallery-album-img">
@@ -117,8 +108,8 @@
                         </div>
                     </div>
                 </div>
-            </li>
-            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "2"]'>
+            </li> -->
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["1"]'>
                 <div class="bio-box">
                     <div class="gallery-album-item">
                         <div class="gallery-album-img">
@@ -138,7 +129,28 @@
                     </div>
                 </div>
             </li>
-            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["all", "2"]'>
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["2"]'>
+                <div class="bio-box">
+                    <div class="gallery-album-item">
+                        <div class="gallery-album-img">
+                            <img src="uploads/frontend/gallery/defualt.png" alt="Image">
+                        </div>
+                        <div class="gallery-album-title">
+                            <h3>Recreation Centre</h3>
+                            <a class="btn" href="gallery/gallery_view/recreation-centre.html"><i
+                                    class="fas fa-photo-video"></i></a>
+                        </div>
+                        <div class="gallery-album-meta">
+                            <p>By<a href="#">Jennifer Adams</a></p>
+
+                        </div>
+                        <div class="gallery-album-text">
+                            <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi.Lorem ipsum dolor .</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="doctors-grid col-lg-4 col-md-6" data-groups='["3"]'>
                 <div class="bio-box">
                     <div class="gallery-album-item">
                         <div class="gallery-album-img">
@@ -208,24 +220,10 @@
                         <div class="dlab-border-left"></div>
                         <div class="dlab-border-right"></div>
                         <div class="dlab-media">
-                            <img src="uploads/images/staff/d7342415bed40b2bece8dc5775cb35d1.jpg" alt="Doctor"
+                            <img src="uploads/images/staff/dummy-01.jpg" alt="English"
                                 class="img-fluid img-center-sm img-center-xs">
                         </div>
-                        <div class="overlay">
-                            <div class="overlay-txt">
-                                <ul class="list-unstyled list-inline sm-links">
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="txt-holder txt-overflow">
                         <h5>Summer Simpson</h5>
@@ -239,26 +237,10 @@
                         <div class="dlab-border-left"></div>
                         <div class="dlab-border-right"></div>
                         <div class="dlab-media">
-                            <img src="uploads/images/staff/6b9a27fca0f377b3f1b445061ee7747f.jpg" alt="Doctor"
+                            <img src="uploads/images/staff/dummy-01.jpg" alt="Teacher"
                                 class="img-fluid img-center-sm img-center-xs">
                         </div>
-                        <div class="overlay">
-                            <div class="overlay-txt">
-                                <ul class="list-unstyled list-inline sm-links">
-                                    <li class="list-inline-item">
-                                        <a href="https://www.facebook.com/username"><i
-                                                class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="https://www.linkedin.com/username"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="www.twitter.com/username.html"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="txt-holder txt-overflow">
                         <h5>Jose McKinley</h5>
@@ -272,24 +254,10 @@
                         <div class="dlab-border-left"></div>
                         <div class="dlab-border-right"></div>
                         <div class="dlab-media">
-                            <img src="uploads/images/staff/21418a118dc76dd8085e6ec006528a1d.jpg" alt="Doctor"
+                            <img src="uploads/images/staff/dummy-01.jpg" alt="Teacher"
                                 class="img-fluid img-center-sm img-center-xs">
                         </div>
-                        <div class="overlay">
-                            <div class="overlay-txt">
-                                <ul class="list-unstyled list-inline sm-links">
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="txt-holder txt-overflow">
                         <h5>Nannie Henriques</h5>
@@ -303,24 +271,10 @@
                         <div class="dlab-border-left"></div>
                         <div class="dlab-border-right"></div>
                         <div class="dlab-media">
-                            <img src="uploads/images/staff/45d5dffee6126d75a8d0c0d1200f2651.jpg" alt="Doctor"
+                            <img src="uploads/images/staff/dummy-01.jpg" alt="Science"
                                 class="img-fluid img-center-sm img-center-xs">
                         </div>
-                        <div class="overlay">
-                            <div class="overlay-txt">
-                                <ul class="list-unstyled list-inline sm-links">
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                    <li class="list-inline-item">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="txt-holder txt-overflow">
                         <h5>Tamica Halcomb</h5>
@@ -446,64 +400,10 @@
         </div>
     </div>
 </section>
-<!-- Services Section Starts -->
-<div class="" style="background-image: url(assets/frontend/images/14.png); padding: 60px 0; background-color: #fff;">
+<section class="testimonial-wrapper">
     <div class="container px-md-0">
-        <section class="medical-services">
-            <div class="sec-title text-center">
-                <h2 style="color: #000">WHY CHOOSE US</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                <span class="decor"><span class="inner"></span></span>
-            </div>
-            <ul class="list-unstyled row text-center">
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-headphones"></i></div>
-                    </div>
-                    <h5>Online Course Facilities</h5>
-                    <p>Making it look like readable E...</p>
-                </li>
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-book-open"></i></div>
-                    </div>
-                    <h5>Modern Book Library</h5>
-                    <p>Many desktop publishing packag...</p>
-                </li>
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-industry"></i></div>
-                    </div>
-                    <h5>Be Industrial Leader</h5>
-                    <p>Making it look like readable E...</p>
-                </li>
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-code"></i></div>
-                    </div>
-                    <h5>Programming Courses</h5>
-                    <p>Many desktop publishing packag...</p>
-                </li>
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-language"></i></div>
-                    </div>
-                    <h5>Foreign Languages</h5>
-                    <p>Making it look like readable E...</p>
-                </li>
-                <li class="col-lg-2 col-sm-4">
-                    <div class="icon">
-                        <div class="i-hover"><i class="fas fa-user-graduate"></i></div>
-                    </div>
-                    <h5>Alumni Directory</h5>
-                    <p>Many desktop publishing packag...</p>
-                </li>
-            </ul>
-        </section>
-
     </div>
-</div>
-
+</section>
 <?php
  
   include('include/footer.php')
