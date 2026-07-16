@@ -14,22 +14,22 @@
                 <ul class="nav">
                     <li><a class="text-white"
                             href="iconschool/news_view/food-drive-collects-record-donations-for-local-shelter.html"><strong>01.</strong>
-                            Food Drive Collects Record Donations for Local Shelter - <span
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry - <span
                                 class='date-text'>10.Dec.2025</span></a></li>
                     <li><a class="text-white"
                             href="iconschool/news_view/mathletes-victorious-at-inter-school-competition.html"><strong>02.</strong>
-                            Mathletes Victorious at Inter-School Competition - <span
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry - <span
                                 class='date-text'>19.Nov.2025</span></a></li>
                     <li><a class="text-white"
                             href="iconschool/news_view/student-council-starts-new-mentorship-program.html"><strong>03.</strong>
-                            Student Council Starts New Mentorship Program - <span
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry - <span
                                 class='date-text'>20.Aug.2025</span></a></li>
                     <li><a class="text-white"
                             href="iconschool/news_view/art-show-brings-color-to-campus-2025.html"><strong>04.</strong>
                             Art Show Brings Color to Campus - 2025 - <span class='date-text'>16.Jul.2025</span></a></li>
                     <li><a class="text-white"
                             href="iconschool/news_view/parent-teacher-conferences-scheduled-for-october-20th.html"><strong>05.</strong>
-                            Parent-Teacher Conferences Scheduled for October 20th - <span
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry - <span
                                 class='date-text'>20.Oct.2025</span></a></li>
                     <li><a class="text-white"
                             href="iconschool/news_view/annual-school-fair-a-resounding-success.html"><strong>06.</strong>

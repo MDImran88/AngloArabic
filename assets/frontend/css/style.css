@@ -171,6 +171,15 @@ h6 {
 }
 /* Preloader Style End */
 
+
+.logo-inline {
+    display: inline-flex;
+    font-size: 17px;
+    color: #000;
+    font-weight: bold;
+    vertical-align: middle;
+    text-align: center;
+}
 /* Section Title Style Start */
 
 .sec-padding {
@@ -853,7 +862,7 @@ color: #8d8d8d;
 }
 
 #nav .nav-link {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: normal;
     color: #313131;
     line-height: normal;

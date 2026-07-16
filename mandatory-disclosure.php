@@ -11,7 +11,7 @@
 ?>
 
 <!-- Main Banner Starts -->
-<div class="main-banner" style="background: url(uploads/frontend/banners/about1.jpg) center top;">
+<div class="main-banner" style="background: url(uploads/frontend/banners/maindatory.jpg) center top;">
     <div class="container px-md-0">
         <h2><span>Mandatory Disclosure</span></h2>
     </div>
@@ -31,94 +31,244 @@
 <!-- Breadcrumb Ends -->
 <!-- Main Container Starts -->
 <div class="container px-md-0">
-    <!-- About Intro Text Starts -->
-    <section class="welcome-area about"
-        style="background: url(uploads/frontend/about/about1.html) no-repeat right bottom;">
-        <div class="row">
-            <div class="col-lg-6 col-sm-12 about-col">
-                <h3 class="main-heading1">Welcome to School</h3>
-                <h3 class="main-heading2">Best Education Mangment Systems</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat rutrum eros amet sollicitudin
-                    interdum. Suspendisse pulvinar, velit nec pharetra interdum, ante tellus ornare mi, et mollis tellus
-                    neque vitae elit. Mauris adipiscing mauris fringilla turpis interdum sed pulvinar nisi malesuada.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </p>
-                <p>
-                    Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies
-                    vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis
-                    mollis, est non commodo luctus, nisi erat porttitor ligula. Mauris sit amet neque nec nunc gravida.
-                </p>
-                <div class="row">
-                    <div class="col-sm-6 col-12">
-                        <ul class="list-unstyled list-style-3">
-                            <li><a href="#">Cardiothoracic Surgery</a></li>
-                            <li><a href="#">Cardiovascular Diseases</a></li>
-                            <li><a href="#">Ophthalmology</a></li>
-                            <li><a href="#">Dermitology</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-6 col-12">
-                        <ul class="list-unstyled list-style-3">
-                            <li><a href="#">Cardiothoracic Surgery</a></li>
-                            <li><a href="#">Cardiovascular Diseases</a></li>
-                            <li><a href="#">Ophthalmology</a></li>
-                        </ul>
-                    </div>
+
+
+    <!-- Main Container Ends -->
+    <!-- FAQ's Accordions Starts -->
+    <div class="accordion" id="accordion-faqs">
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq0">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse0" aria-expanded="false"
+                    aria-controls="collapse0">
+                    <a>A). GENERAL INFORMATION:</a>
+                </h5>
+            </div>
+            <div id="collapse0" class="collapse" aria-labelledby="faq0" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <table class="table">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>S.NO.</th>
+                                <th>INFORMATION</th>
+                                <th class=" ">DETAILS</th>
+                            </tr>
+
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1.</td>
+                                <td>NAME OF THE SCHOOL</td>
+                                <td class="">ANGLO ARABIC SENIOR SECONDARY SCHOOL</td>
+                            </tr>
+                            <tr>
+                                <td>2.</td>
+                                <td>AFFILIATION NO.</td>
+                                <td class="">2127082</td>
+                            </tr>
+                            <tr>
+                                <td>3.</td>
+                                <td>SCHOOL CODE</td>
+                                <td class="">87012</td>
+                            </tr>
+                            <tr>
+                                <td>4.</td>
+                                <td>COMPLETE ADDRESS WITH PINCODE</td>
+                                <td class="">AJMERI GATE, NEAR NEW DELHI RAtd STATION, DELHI - 110006
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5.</td>
+                                <td>PRINCIPAL NAME &amp; QUALIFICATION</td>
+                                <td class="">MR. PERVEZ AHMED <br>B.Ed, M.Sc(CHEMISTRY)</td>
+                            </tr>
+                            <tr>
+                                <td>6.</td>
+                                <td>SCHOOL EMAIL ID</td>
+                                <td class="">angloarabic@yahoo.com<br>87012@cbseshiksha.in</td>
+                            </tr>
+                            <tr>
+                                <td>7.</td>
+                                <td>CONTACT DETAILS (LANDLINE/MOBILE)</td>
+                                <td class="">????</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 d-none d-md-block"></div>
         </div>
-    </section>
-    <!-- About Intro Text Ends -->
-</div>
-<!-- Main Container Ends -->
-<!-- About Featured Section Starts -->
-<!-- <section class="about-featured parallax" style="background-image: url(uploads/frontend/about/service_parallax1.jpg);">
-    <div class="container px-md-0">
-        <h3 class="lite">Get Well Soon</h3>
-        <h2 class="lite">
-            Our Best <span>Services</span> </h2>
-        <ul class="list-unstyled list row">
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-headphones"></i>
-                <h4>Online Course Facilities</h4>
-                <p>Making it look like readable English. Many desktop publishing packages and web page editors now use
-                    Lorem Ipsum as their default model text.</p>
-            </li>
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-book-open"></i>
-                <h4>Modern Book Library</h4>
-                <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model
-                    text, and a search for 'lorem ipsum' will uncover.</p>
-            </li>
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-industry"></i>
-                <h4>Be Industrial Leader</h4>
-                <p>Making it look like readable English. Many desktop publishing packages and web page editors now use
-                    Lorem Ipsum as their default model.</p>
-            </li>
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-code"></i>
-                <h4>Programming Courses</h4>
-                <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model
-                    text, and a search for 'lorem ipsum' will.</p>
-            </li>
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-language"></i>
-                <h4>Foreign Languages</h4>
-                <p>Making it look like readable English. Many desktop publishing packages and web page editors now use
-                    Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover.</p>
-            </li>
-            <li class="col-lg-4 col-md-6 col-sm-12">
-                <i class="fas fa-user-graduate"></i>
-                <h4>Alumni Directory</h4>
-                <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model
-                    text, and a for 'lorem ipsum' will uncover.</p>
-            </li>
-        </ul>
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq1">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false"
+                    aria-controls="collapse1">
+                    <a>B). DOCUMENTS AND INFORMATION:</a>
+                </h5>
+            </div>
+            <div id="collapse1" class="collapse" aria-labelledby="faq1" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <th>S.NO.</th>
+                                <th colspan="3">DOCUMENTS/INFORMATION</th>
+                                <th>UPLOAD DOCUMENTS</th>
+                            </tr>
+                            <tr>
+                                <td>1.</td>
+                                <td class=" text-uppercase" colspan="3">Recent affiliation
+                                </td>
+                                <td><a href="uploads/documents/AFFILIATION-CERTIFICATE-CBSE.pdf" target="_blank"
+                                        class="fs-1">
+                                        <i class="fas fa-download"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td>2.</td>
+                                <td class="text-uppercase" colspan="3">Society Registration
+                                </td>
+                                <td class=""><a href=" uploads/documents/SOCIETY-REGISTRATION.pdf" target="_blank"
+                                        class="fs-1"> <i class="fas fa-download"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td>3.</td>
+                                <td class="text-uppercase" colspan="3">NOC from DOE
+                                </td>
+                                <td class="">
+                                    <a href=" uploads/documents/NOC-FROM-DOE.pdf" target="_blank" class="fs-1">
+                                        <i class="fas fa-download"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>4.</td>
+                                <td class="text-uppercase" colspan="3">Building safety
+                                </td>
+                                <td class=""><a href=" uploads/documents/" target="_blank" class="fs-1">
+                                        <i class="fas fa-download"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5.</td>
+                                <td class="text-uppercase" colspan="3">Fire safety</td>
+                                <td><a href=" uploads/documents/Land and Buildings.pdf" target="_blank" class="fs-1"><i
+                                            class="fas fa-download"></i></a></td>
+                            </tr>
+                            <tr>
+                                <td>6.</td>
+                                <td class="text-uppercase" colspan="3">Water health and sanitation</td>
+                                <td class=" uploads/documents/WATER-SANITAION-AND-HEALTH.pdf"><a href="" target="_blank"
+                                        class="fs-1">
+                                        <i class="fas fa-download"></i></a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq2">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false"
+                    aria-controls="collapse2">
+                    <a>Opposed to using 'Content here, content here', making it look like readable English ?</a>
+                </h5>
+            </div>
+            <div id="collapse2" class="collapse" aria-labelledby="faq2" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <p>
+                        Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
+                        proident. Ad
+                        vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim
+                        aesthetic
+                        synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    </p>
+                    <ol>
+                        <li>Quis nostrud exercitation ullamco quat. It is a long established fact that a reader will be
+                            distracted.</li>
+                        <li>Readable content of a page when looking at its layout.</li>
+                        <li>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
+                        </li>
+                        <li>Opposed to using 'Content here, content here', making it look like readable English.</li>
+                    </ol>
+                    <p>
+                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+                        3
+                        wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt
+                        laborum
+                        eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee
+                        nulla
+                        assumenda shoreditch et.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq3">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false"
+                    aria-controls="collapse3">
+                    <a>Readable content of a page when looking at its layout ?</a>
+                </h5>
+            </div>
+            <div id="collapse3" class="collapse" aria-labelledby="faq3" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <p>
+                        Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
+                        proident. Ad
+                        vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim
+                        aesthetic
+                        synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    </p>
+                    <ol>
+                        <li>Quis nostrud exercitation ullamco quat. It is a long established fact that a reader will be
+                            distracted.</li>
+                        <li>Readable content of a page when looking at its layout.</li>
+                        <li>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
+                        </li>
+                        <li>Opposed to using 'Content here, content here', making it look like readable English.</li>
+                    </ol>
+                    <p>
+                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+                        3
+                        wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt
+                        laborum
+                        eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee
+                        nulla
+                        assumenda shoreditch et.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq4">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false"
+                    aria-controls="collapse4">
+                    <a>What types of documents are required to travel?</a>
+                </h5>
+            </div>
+            <div id="collapse4" class="collapse" aria-labelledby="faq4" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <p><strong>Lorem ipsum</strong> dolor sit amet, an labores explicari qui, eu nostrum copiosae
+                        argumentum
+                        has. Latine propriae quo no, unum ridens expetenda id sit, at usu eius eligendi singulis. Sea
+                        ocurreret principes ne. At nonumy aperiri pri, nam quodsi copiosae intellegebat et, ex deserunt
+                        euripidis usu. Per ad ullum lobortis. Duo volutpat imperdiet ut, postea salutatus imperdiet ut
+                        per,
+                        ad utinam debitis invenire has.</p>
+
+                    <ol>
+                        <li>labores explicari qui</li>
+                        <li>labores explicari qui</li>
+                        <li>labores explicari quilabores explicari qui</li>
+                        <li>labores explicari qui</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
     </div>
-</section> -->
-<!-- About Featured Section Ends -->
+    <!-- Accordion #5 Ends -->
+</div>
 <?php
  
   include('include/inner-footer.php')
