@@ -90,7 +90,7 @@
                             <tr>
                                 <td>7.</td>
                                 <td>CONTACT DETAILS (LANDLINE/MOBILE)</td>
-                                <td class="">????</td>
+                                <td class="">9811214475</td>
                             </tr>
                         </tbody>
                     </table>
