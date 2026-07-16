@@ -108,6 +108,7 @@
                         <!-- Logo Starts -->
                         <a href="index.php" class="navbar-brand">
                             <img src="uploads/frontend/images/logo.png" alt="Logo">
+                            <span class="logo-inline">Anglo Arabic <br>School</span>
                         </a>
                         <!-- Logo Ends -->
                         <!-- Collapse Button Starts -->
