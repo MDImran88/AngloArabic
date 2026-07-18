@@ -161,11 +161,14 @@
                                 <li class="nav-item dropdown">
                                     <a href="#" class="nav-link">Downloads<span class="arrow"></span> </a>
                                     <ul class="dropdown-menu arrow-nill" role="menu">
-                                        <a class="dropdown-item" href="#">Syllabus</a>
-                                        <a class="dropdown-item" href="#">Support Materials</a>
+                                        <a class="dropdown-item" href="https://edustud.nic.in/edu/syllabus.html"
+                                            target="_blank">Syllabus</a>
+                                        <a class="dropdown-item"
+                                            href="https://edustud.nic.in/edu/support_material_2025_26.html"
+                                            target="_blank">Support Materials</a>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown">
+                                <li class=" nav-item dropdown">
                                     <a href="#" class="nav-link">Our Team<span class="arrow"></span> </a>
                                     <ul class="dropdown-menu arrow-nill" role="menu">
                                         <a class="dropdown-item" href="#">Syllabus</a>
