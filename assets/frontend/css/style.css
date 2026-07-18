@@ -174,8 +174,8 @@ h6 {
 
 .logo-inline {
     display: inline-flex;
-    font-size: 17px;
-    color: #000;
+    font-size: 16px;
+    color: #000!important;
     font-weight: bold;
     vertical-align: middle;
     text-align: center;

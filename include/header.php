@@ -171,7 +171,6 @@
                                 <li class=" nav-item dropdown">
                                     <a href="#" class="nav-link">Our Team<span class="arrow"></span> </a>
                                     <ul class="dropdown-menu arrow-nill" role="menu">
-                                        <a class="dropdown-item" href="#">Syllabus</a>
                                         <a class="dropdown-item" href="#">Teaching</a>
                                         <a class="dropdown-item" href="#">PGTs</a>
                                         <a class="dropdown-item" href="#">TGTs</a>
