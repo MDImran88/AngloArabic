@@ -91,7 +91,7 @@
                             <li class="list-inline-item"><a href="#">
                                     <i class="far fa-envelope"></i> <span class="">angloarabic@yahoo.com</span> </a>
                             </li>
-                            <li class="list-inline-item"><i class="fas fa-phone-volume"></i> +1-954-648-1802</li>
+                            <li class="list-inline-item"><i class="fas fa-phone-volume"></i> +91 811214475</li>
                             <!-- <li class="list-inline-item"><a href="#"><i class="fas fa-user-lock"></i>
                                     Login</a></li> -->
                         </ul>

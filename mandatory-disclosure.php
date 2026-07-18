@@ -24,14 +24,13 @@
             <li class="list-inline-item"><a href="index.php">Home</a>
             </li>
             <li class="list-inline-item active">
-                Mandatory Disclosure </li>
+                Mandatory Disclosures </li>
         </ul>
     </div>
 </div>
 <!-- Breadcrumb Ends -->
 <!-- Main Container Starts -->
 <div class="container px-md-0">
-
 
     <!-- Main Container Ends -->
     <!-- FAQ's Accordions Starts -->
@@ -64,7 +63,7 @@
                             <tr>
                                 <td>2.</td>
                                 <td>AFFILIATION NO.</td>
-                                <td class="">2127082</td>
+                                <td class="">2778035</td>
                             </tr>
                             <tr>
                                 <td>3.</td>
@@ -80,7 +79,7 @@
                             <tr>
                                 <td>5.</td>
                                 <td>PRINCIPAL NAME &amp; QUALIFICATION</td>
-                                <td class="">MR. PERVEZ AHMED <br>B.Ed, M.Sc(CHEMISTRY)</td>
+                                <td class="">MR. PERVEZ AHMED <br>M.S.c(CHEM.), B.Ed </td>
                             </tr>
                             <tr>
                                 <td>6.</td>
@@ -97,6 +96,7 @@
                 </div>
             </div>
         </div>
+        <!-- DOCUMENTS AND INFORMATION: -->
         <div class="card">
             <!-- Card Header Starts -->
             <div class="card-header" id="faq1">
@@ -142,20 +142,21 @@
                                 <td>4.</td>
                                 <td class="text-uppercase" colspan="3">Building safety
                                 </td>
-                                <td class=""><a href=" uploads/documents/" target="_blank" class="fs-1">
+                                <td class=""><a href=" uploads/documents/STRUCTURE-SAFETY.pdf" target="_blank"
+                                        class="fs-1">
                                         <i class="fas fa-download"></i></a>
                                 </td>
                             </tr>
                             <tr>
                                 <td>5.</td>
                                 <td class="text-uppercase" colspan="3">Fire safety</td>
-                                <td><a href=" uploads/documents/Land and Buildings.pdf" target="_blank" class="fs-1"><i
+                                <td><a href="uploads/documents/FIRE-SAFETY.pdf" target="_blank" class="fs-1"><i
                                             class="fas fa-download"></i></a></td>
                             </tr>
                             <tr>
                                 <td>6.</td>
                                 <td class="text-uppercase" colspan="3">Water health and sanitation</td>
-                                <td class=" uploads/documents/WATER-SANITAION-AND-HEALTH.pdf"><a href="" target="_blank"
+                                <td><a href="uploads/documents/WATER-SANITAION-AND-HEALTH.pdf" target="_blank"
                                         class="fs-1">
                                         <i class="fas fa-download"></i></a></td>
                             </tr>
@@ -165,12 +166,99 @@
                 </div>
             </div>
         </div>
-        <br> <br>
+        <!-- RESULT AND ACADEMICS: -->
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq1">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false"
+                    aria-controls="collapse2">
+                    <a>C). RESULT AND ACADEMICS:</a>
+                </h5>
+            </div>
+            <div id="collapse2" class="collapse" aria-labelledby="faq1" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <h5 class="text-center">RESULT OF CLASS X</h5>
+                    <table class="table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>S.NO.</th>
+                                <th>YEAR</th>
+                                <th>NO. OF REGISTERED STUDENTS</th>
+                                <th>NO. OF STUDENTS PASSED</th>
+                                <th>PASS PERCENTAGE</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1.</td>
+                                <td>2024</td>
+                                <td>173</td>
+                                <td>163</td>
+                                <td>94.21%</td>
+                            </tr>
+                            <tr>
+                                <td>2.</td>
+                                <td>2025</td>
+                                <td>162</td>
+                                <td>142</td>
+                                <td>87.65%</td>
+                            </tr>
+                            <tr>
+                                <td>3.</td>
+                                <td>2026</td>
+                                <td>161</td>
+                                <td>149</td>
+                                <td>92.54%</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                    <br><br>
+                    <h5 class="text-center">RESULT OF CLASS XII</h5>
+                    <table class="table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>S.NO.</th>
+                                <th>YEAR</th>
+                                <th>NO. OF REGISTERED STUDENTS</th>
+                                <th>NO. OF STUDENTS PASSED</th>
+                                <th>PASS PERCENTAGE</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1.</td>
+                                <td>2024</td>
+                                <td>230</td>
+                                <td>202</td>
+                                <td>87.82%</td>
+                            </tr>
+                            <tr>
+                                <td>2.</td>
+                                <td>2025</td>
+                                <td>266</td>
+                                <td>222</td>
+                                <td>83.45%</td>
+                            </tr>
+                            <tr>
+                                <td>3.</td>
+                                <td>2026</td>
+                                <td>247</td>
+                                <td>168</td>
+                                <td>68.01%</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                    </<div>
+                </div>
+
+            </div>
+            <br> <br>
+        </div>
+        <!-- Accordion #5 Ends -->
     </div>
-    <!-- Accordion #5 Ends -->
 </div>
 <?php
- 
-  include('include/inner-footer.php')
-
-?>
+      include('include/inner-footer.php')
+    ?>
