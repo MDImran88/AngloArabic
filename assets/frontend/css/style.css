@@ -1026,7 +1026,7 @@ color: #8d8d8d;
 }
 
 
-/* Navbar Custom Styles Starts */
+/* Navbar Custom Styles Starts style change */
 
 @media (min-width: 992px) {
     #nav .navbar-nav > li+li {
@@ -1037,7 +1037,7 @@ color: #8d8d8d;
         position: relative;
         -webkit-transform: translateZ(0);
         transform: translateZ(0);
-        padding-right: .4rem !important;
+        padding-right: .4rem !important; 
         padding-left: .4rem !important;
     }
     #nav .navbar-nav > li > a:before,
