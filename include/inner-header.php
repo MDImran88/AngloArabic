@@ -12,7 +12,7 @@
     <meta name="description"
         content="Experience modern education at Anglo Arabic School, Delhi. Featuring 100% smart classrooms and premium sports infrastructure. CBSE Admissions open for 2026-27!">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="uploads/frontend/images/fav_icon18f90.png?src=1783942116">
+    <link rel="shortcut icon" href="uploads/appIcons/favicon.png" type="image/x-icon">
     <title>Anglo Arabic School</title>
     <!-- Bootstrap -->
     <link href="assets/frontend/css/bootstrap.min.css" rel="stylesheet">
