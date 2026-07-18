@@ -79,7 +79,7 @@
                             <tr>
                                 <td>5.</td>
                                 <td>PRINCIPAL NAME &amp; QUALIFICATION</td>
-                                <td class="">MR. PERVEZ AHMED <br>M.S.c(CHEM.), B.Ed </td>
+                                <td class="">MR. PERVEZ AHMED <br>M.Sc. (Chem.), B.Ed </td>
                             </tr>
                             <tr>
                                 <td>6.</td>
@@ -150,7 +150,7 @@
                             <tr>
                                 <td>5.</td>
                                 <td class="text-uppercase" colspan="3">Fire safety</td>
-                                <td><a href="uploads/documents/FIRE-SAFETY.pdf" target="_blank" class="fs-1"><i
+                                <td><a href="uploads/documents/Fire-safety.pdf" target="_blank" class="fs-1"><i
                                             class="fas fa-download"></i></a></td>
                             </tr>
                             <tr>
