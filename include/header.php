@@ -106,9 +106,9 @@
                 <nav id="nav" class="navbar navbar-expand-lg" role="navigation">
                     <div class="container-md px-md-0">
                         <!-- Logo Starts -->
-                        <a href="index.php" class="navbar-brand">
+                        <a href="index.php" class="main-logo navbar-brand">
                             <img src="uploads/frontend/images/logo.png" alt="Logo">
-                            <span class="logo-inline">Anglo Arabic <br>School</span>
+                            <span class="logo-inline">Anglo Arabic <br>Sr. Sec.School</span>
                         </a>
                         <!-- Logo Ends -->
                         <!-- Collapse Button Starts -->
@@ -128,7 +128,7 @@
                                 <li class="nav-item dropdown">
                                     <a href="aboutus.php" class="nav-link">About US<span class="arrow"></span> </a>
                                     <ul class="dropdown-menu arrow-nill" role="menu">
-                                        <a class="dropdown-item" href="#">Brief History of The School</a>
+                                        <a class="dropdown-item" href="history.php">Brief History of The School</a>
                                         <a class="dropdown-item" href="#">Delhi Education Society</a>
                                         <a class="dropdown-item" href="#">About The Chairman</a>
                                         <a class="dropdown-item" href="#">About The Manager</a>
@@ -179,12 +179,10 @@
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">School Tarana</a>
                                 </li>
-                                <li class="nav-item ">
-                                    <a href="#" class="nav-link">Gallery</a>
-                                </li>
+
                                 <li class="nav-item ">
                                     <a href="mandatory-disclosure.php" class="nav-link extra-btn">Mandatory
-                                        Disclosure</a>
+                                        Disclosures</a>
                                 </li>
                             </ul>
                         </div>

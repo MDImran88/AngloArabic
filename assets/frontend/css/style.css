@@ -972,7 +972,7 @@ color: #8d8d8d;
     font-weight: 900;
     margin-left: 4px;
     display: inline;
-    font-size: 16px;
+    font-size: 12px;
     height: auto;
     text-shadow: none;
     width: 10px;
@@ -1037,8 +1037,8 @@ color: #8d8d8d;
         position: relative;
         -webkit-transform: translateZ(0);
         transform: translateZ(0);
-        padding-right: .9rem !important;
-        padding-left: .9rem !important;
+        padding-right: .4rem !important;
+        padding-left: .4rem !important;
     }
     #nav .navbar-nav > li > a:before,
     #nav .navbar-nav > li > a:after {
