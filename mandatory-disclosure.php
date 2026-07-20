@@ -155,8 +155,8 @@
                             </tr>
                             <tr>
                                 <td>6.</td>
-                                <td class="text-uppercase" colspan="3">Water health and sanitation</td>
-                                <td><a href="uploads/documents/WATER-SANITAION-AND-HEALTH.pdf" target="_blank"
+                                <td class="text-uppercase" colspan="3">Water health and sanitation certificate</td>
+                                <td><a href="uploads/documents/water-health-sanitation-certificate.pdf" target="_blank"
                                         class="fs-1">
                                         <i class="fas fa-download"></i></a></td>
                             </tr>
@@ -254,10 +254,161 @@
                 </div>
 
             </div>
-            <br> <br>
+        </div>
+        <!-- Accordion #5 Ends -->
+        <!-- STAFF (TEACHING): -->
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq1">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false"
+                    aria-controls="collapse3">
+                    <a>C). STAFF (TEACHING):</a>
+                </h5>
+            </div>
+            <div id="collapse3" class="collapse" aria-labelledby="faq1" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <table class="table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>S.NO.</th>
+                                <th colspan="2">INFORMATION</th>
+                                <th>DETAILS</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th>1.</th>
+                                <td colspan="2">VICE-PRINCPAL/H.O.S</td>
+                                <td>01</td>
+
+                            </tr>
+                            <tr>
+                                <th>2</th>
+                                <td colspan="2">TOTAL NO. OtdTEACHERS</td>
+                                <td></td>
+
+                            </tr>
+                            <tr>
+                                <th></th>
+                                <td colspan="2">
+                                    <ul>
+                                        <li>PGT</li>
+                                        <li>TGT</li>
+                                        <li>P.E.T</li>
+
+                                    </ul>
+                                </td>
+                                <td>
+                                    20<br>
+                                    24<br>
+                                    01 </td>
+                            </tr>
+                            <tr>
+                                <th>3</th>
+                                <td colspan="2">TEACHERS STUDENT RATIO</td>
+                                <td>1:31</td>
+
+                            </tr>
+                            <tr>
+                                <th>4.</th>
+                                <td colspan="2">DETAILS OF SPECIAL EDUCATOR</td>
+                                <td>VACANT AND DEMANDED IN CURRENT P.F.C</td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    </<div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- Accordion #5 Ends -->
+        <!-- SCHOOL INFRASTRUCTURE: -->
+        <div class="card">
+            <!-- Card Header Starts -->
+            <div class="card-header" id="faq1">
+                <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false"
+                    aria-controls="collapse4">
+                    <a>E). SCHOOL INFRASTRUCTURE:</a>
+                </h5>
+            </div>
+            <div id="collapse4" class="collapse" aria-labelledby="faq1" data-parent="#accordion-faqs">
+                <div class="card-body">
+                    <table class="table">
+                        <thead class="table-light">
+                            <tr>
+                                <th>S.NO.</th>
+                                <th colspan="2">INFORMATION</th>
+                                <th>DETAILS</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th>1.</th>
+                                <td colspan="2">TOTAL CAMPUS AREA OF THE SCHOOL (IN SQR MTR)</td>
+                                <td>36,560 SQ.MT.</td>
+
+                            </tr>
+                            <tr>
+                                <th>2</th>
+                                <td colspan="2">2.TOTAL CAMPUS BUILT AREA OF THE SCHOOL (IN SQR MTR)</td>
+                                <td>5,953.60 SQ.MT.</td>
+
+                            </tr>
+                            <tr>
+                                <th>3</th>
+                                <td colspan="2">NO.AND SIZE OF THE CLASS ROOMS (IN SQR. MTR)</td>
+                                <td>35(55 SQR.MTR EACH)</td>
+
+                            </tr>
+                            <tr>
+                                <th>4</th>
+                                <td colspan="2">NO. AND SIZE OF LABORATORIES INCLUDING</td>
+                                <td></td>
+
+                            </tr>
+                            <tr>
+                                <th></th>
+                                <td colspan="2">COMPUTER LABS(IN SQR.MTR)</td>
+                                <td>04(116 SQR.MTR.)</td>
+
+                            </tr>
+                            <tr>
+                                <th>5</th>
+                                <td colspan="2">INTERNET FACILITY (Y/N)</td>
+                                <td>yes</td>
+                            </tr>
+                            <tr>
+                                <th>6</th>
+                                <td colspan="2">CCTV FACILITY(Y/N)</td>
+                                <td>yes</td>
+                            </tr>
+                            <tr>
+                                <th>7</th>
+                                <td colspan="2">NO. OF girls TOILET</td>
+                                <td>06</td>
+                            </tr>
+                            <tr>
+                                <th>8</th>
+                                <td colspan="2">NO. OF BOYS TOILET</td>
+                                <td>15</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    </<div>
+                </div>
+
+            </div>
+
         </div>
         <!-- Accordion #5 Ends -->
     </div>
+    <br> <br>
 </div>
 <?php
       include('include/inner-footer.php')
