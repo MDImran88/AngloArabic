@@ -126,7 +126,7 @@
                                 <td>2.</td>
                                 <td class="text-uppercase" colspan="3">Society Registration
                                 </td>
-                                <td class=""><a href=" uploads/documents/SOCIETY-REGISTRATION.pdf" target="_blank"
+                                <td class=""><a href="uploads/documents/SOCIETY-REGISTRATION.pdf" target="_blank"
                                         class="fs-1"> <i class="fas fa-download"></i></a></td>
                             </tr>
                             <tr>
