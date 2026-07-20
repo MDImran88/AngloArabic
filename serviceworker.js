@@ -1,4 +1,4 @@
-var staticCacheName = "ramom-school-pwa-" + new Date().getTime();
+var staticCacheName = "anglo-arabic-school-pwa-" + new Date().getTime();
 var filesToCache = [
     '/uploads/appIcons/icon-48x48.png',
     '/uploads/appIcons/icon-72x72.png',
@@ -25,7 +25,7 @@ self.addEventListener('activate', event => {
         caches.keys().then(cacheNames => {
             return Promise.all(
                 cacheNames
-                    .filter(cacheName => (cacheName.startsWith("ramom-school-pwa-")))
+                    .filter(cacheName => (cacheName.startsWith("anglo-arabic-school-pwa-")))
                     .filter(cacheName => (cacheName !== staticCacheName))
                     .map(cacheName => caches.delete(cacheName))
             );
