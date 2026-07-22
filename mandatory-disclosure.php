@@ -262,7 +262,7 @@
             <div class="card-header" id="faq1">
                 <h5 class="card-title" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false"
                     aria-controls="collapse3">
-                    <a>C). STAFF (TEACHING):</a>
+                    <a>D). STAFF (TEACHING):</a>
                 </h5>
             </div>
             <div id="collapse3" class="collapse" aria-labelledby="faq1" data-parent="#accordion-faqs">
@@ -316,6 +316,22 @@
                                 <td>VACANT AND DEMANDED IN CURRENT P.F.C</td>
 
                             </tr>
+                            <tr>
+                                <th>5.</th>
+                                <td colspan="2">LIST OF GUEST TEACHERS ANGLO ARABIC</td>
+                                <td>
+                                    <a href="uploads/documents/LIST-GUEST-TEACHERS-ANGLO-ARABIC.pdf" target="_blank"><i
+                                            class="fas fa-download"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>6.</th>
+                                <td colspan="2">STAFF MEMBERS LIST</td>
+                                <td>
+                                    <a href="uploads/documents/STAFF-MEMBERS-LIST.pdf" target="_blank"><i
+                                            class="fas fa-download"></i></a>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
 
@@ -355,7 +371,7 @@
                             </tr>
                             <tr>
                                 <th>2</th>
-                                <td colspan="2">2.TOTAL CAMPUS BUILT AREA OF THE SCHOOL (IN SQR MTR)</td>
+                                <td colspan="2">TOTAL CAMPUS BUILT AREA OF THE SCHOOL (IN SQR MTR)</td>
                                 <td>5,953.60 SQ.MT.</td>
 
                             </tr>
@@ -396,6 +412,15 @@
                                 <th>8</th>
                                 <td colspan="2">NO. OF BOYS TOILET</td>
                                 <td>15</td>
+                            </tr>
+                            <tr>
+                                <th>9</th>
+                                <td colspan="2">Link of youtube video of the school covering the infrastructure school
+                                </td>
+                                <td>
+                                    <a href="https://www.youtube.com/watch?v=INv0SEJE_hI" target=" _blank">Watch YouTube
+                                        Video</a>
+                                </td>
                             </tr>
                         </tbody>
                     </table>
